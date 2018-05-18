@@ -1,0 +1,27 @@
+.Sidebar {
+    background:#151718;
+    width:100px;
+    height:100%;
+    display:inline-block;
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+.Sidebar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.Sidebar li {
+    display: inline-block;
+    margin: 20px;
+}
+.Sidebar a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.Sidebar a:hover,
+.Sidebar a:active {
+    color: rosybrown;
+
+}
