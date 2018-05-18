@@ -20,8 +20,13 @@
     text-decoration: none;
     color: aliceblue;
 }
-.Sidebar a:hover,
-.Sidebar a:active {
-    color: rosybrown;
 
+.Sidebar button {
+    width: 100px;
+    position: absolute;
+    left: 0px;
+    height: 10%;
+    background-color: #151718;
 }
+
+
